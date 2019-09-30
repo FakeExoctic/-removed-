@@ -1,8 +1,11 @@
-# beepboop
+# RealExoctic's Lua Stuff
 
-beep boop
+**I don't really know what to put here so..**
 
-# big beep boop
+wait how do i make code blocks
+
+
+help
 
 
 
